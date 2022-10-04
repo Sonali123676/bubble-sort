@@ -2,8 +2,9 @@ import java.util.Arrays;
 
 // Java program for implementation of Bubble Sort
 
-
+//class 
 class BubbleSort {
+	//function of bubbleSort
 	void bubbleSort(int arr[]) 
 	{
 		int n = arr.length;
